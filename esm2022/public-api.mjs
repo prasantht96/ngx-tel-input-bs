@@ -1,0 +1,11 @@
+/*
+ * Public API Surface of ngx-tel-input-bs
+ */
+export * from './lib/ngx-tel-input-bs.component';
+export * from './lib/core/directive/native-element-injector.directive';
+export * from './lib/ngx-tel-input-bs.module';
+export * from './lib/core/models/country-iso.enum';
+export * from './lib/core/models/search-country-field.enum';
+export * from './lib/core/models/phone-number-format.enum';
+export * from './lib/core/models/change-data';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25neC10ZWwtaW5wdXQtYnMvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLGtDQUFrQyxDQUFDO0FBQ2pELGNBQWMsd0RBQXdELENBQUM7QUFDdkUsY0FBYywrQkFBK0IsQ0FBQztBQUM5QyxjQUFjLG9DQUFvQyxDQUFDO0FBQ25ELGNBQWMsNkNBQTZDLENBQUM7QUFDNUQsY0FBYyw0Q0FBNEMsQ0FBQztBQUMzRCxjQUFjLCtCQUErQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZ3gtdGVsLWlucHV0LWJzXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LXRlbC1pbnB1dC1icy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY29yZS9kaXJlY3RpdmUvbmF0aXZlLWVsZW1lbnQtaW5qZWN0b3IuZGlyZWN0aXZlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC10ZWwtaW5wdXQtYnMubW9kdWxlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2NvcmUvbW9kZWxzL2NvdW50cnktaXNvLmVudW0nO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY29yZS9tb2RlbHMvc2VhcmNoLWNvdW50cnktZmllbGQuZW51bSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb3JlL21vZGVscy9waG9uZS1udW1iZXItZm9ybWF0LmVudW0nO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY29yZS9tb2RlbHMvY2hhbmdlLWRhdGEnO1xuIl19
